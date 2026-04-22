@@ -5,7 +5,7 @@
 
 <!-- ═══════════════════ ANIMATED WAVE HEADER ═══════════════════ -->
 <a href="https://github.com/Dream-Debugger-Dev">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=260&section=header&text=Dream%20Debugger%20Dev&fontSize=70&fontAlignY=38&fontColor=ffffff&animation=twinkling&desc=%3C%20Full-Stack%20Developer%20%2F%20Digital%20Alchemist%20%2F%20Code%20Poet%20%2F%3E&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:1F6FEB&height=260&section=header&text=Dream%20Debugger%20Dev&fontSize=70&fontAlignY=38&fontColor=ffffff&animation=twinkling&desc=%3C%20Full-Stack%20Developer%20%2F%20Digital%20Alchemist%20%2F%20Code%20Poet%20%2F%3E&descAlignY=58&descSize=18" width="100%" alt="Dream Debugger Dev banner" />
 </a>
 
 <!-- ═══════════════════ TYPING ANIMATION ═══════════════════ -->
@@ -306,7 +306,7 @@ I'm open to:
 </div>
 
 <!-- ═══════════════════ WAVE FOOTER ═══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=150&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,50:161B22,100:0D1117&height=150&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%" alt="footer banner" />
 
 <div align="center">
 
