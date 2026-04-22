@@ -40,10 +40,11 @@
 ```js
 const anshik = {
   pronouns: "he/him",
-  code:     ["JS", "Py", "HTML", "CSS",
-             "React"],
-  learning: ["TypeScript", "Next.js",
-             "Tailwind", "Node", "Docker"],
+  code:     ["HTML", "CSS", "JS", "Py",
+             "Bootstrap", "Firebase"],
+  learning: ["React", "MongoDB", "SQL"],
+  roadmap:  ["TS", "Next.js", "Tailwind",
+             "Node", "Docker"],
   ask_me:   ["web dev", "debugging",
              "animations"],
   tech:     { frontend: "🔥",
@@ -111,17 +112,17 @@ const anshik = {
 
 <div align="center">
 
-**🎨 Languages & Frameworks**
+**💪 Comfortable with**
 
-[![Language and framework icons: HTML, CSS, JavaScript, React, Python](https://skillicons.dev/icons?i=html,css,js,react,python&theme=dark)](https://skillicons.dev)
+[![Comfortable with: HTML, CSS, JavaScript, Python, Bootstrap, Firebase, Git, GitHub, VS Code](https://skillicons.dev/icons?i=html,css,js,py,bootstrap,firebase,git,github,vscode&theme=dark)](https://skillicons.dev)
 
-**🛠️ Tools & Platforms**
+**🌱 Currently learning**
 
-[![Tools and platforms: Node.js, Express, MongoDB, Firebase, Git, GitHub, VS Code](https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,git,github,vscode&theme=dark)](https://skillicons.dev)
+[![Currently learning: React, MongoDB, SQL, MySQL](https://skillicons.dev/icons?i=react,mongodb,postgres,mysql&theme=dark)](https://skillicons.dev)
 
-**🌱 Currently Exploring**
+**🗺️ On the roadmap**
 
-[![Currently learning: TypeScript, Next.js, Tailwind, Docker](https://skillicons.dev/icons?i=ts,nextjs,tailwind,docker&theme=dark)](https://skillicons.dev)
+[![On the roadmap: TypeScript, Next.js, Tailwind, Node.js, Docker](https://skillicons.dev/icons?i=ts,nextjs,tailwind,nodejs,docker&theme=dark)](https://skillicons.dev)
 
 </div>
 
