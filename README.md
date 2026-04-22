@@ -80,7 +80,11 @@ const anshik = {
 <br/>
 
 <!-- ═══════════════════ SECTION: ABOUT ═══════════════════ -->
-<img src="https://raw.githubusercontent.com/Dream-Debugger-Dev/Dream-Debugger-Dev/output/github-contribution-grid-snake-dark.svg" align="right" width="420" alt="snake animation"/>
+<picture align="right">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dream-Debugger-Dev/Dream-Debugger-Dev/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dream-Debugger-Dev/Dream-Debugger-Dev/output/github-contribution-grid-snake.svg" />
+  <img align="right" width="420" alt="snake animation eating my contribution graph" src="https://raw.githubusercontent.com/Dream-Debugger-Dev/Dream-Debugger-Dev/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ### `> whoami`
 
@@ -108,60 +112,17 @@ const anshik = {
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JS" />
-<br>JavaScript
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React" />
-<br>React
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/html-icon.svg" width="48" height="48" alt="HTML" />
-<br>HTML5
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/css-icon.svg" width="48" height="48" alt="CSS" />
-<br>CSS3
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
-<br>Python
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" />
-<br>GitHub
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node" />
-<br>Node.js
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-<br>Express
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="Mongo" />
-<br>MongoDB
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-<br>Firebase
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-<br>Git
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
-<br>VS Code
-</td>
-</tr>
-</table>
+**🎨 Languages & Frameworks**
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,python&theme=dark)](https://skillicons.dev)
+
+**🛠️ Tools & Platforms**
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,git,github,vscode&theme=dark)](https://skillicons.dev)
+
+**🌱 Currently Exploring**
+
+[![My Skills](https://skillicons.dev/icons?i=ts,nextjs,tailwind,docker&theme=dark)](https://skillicons.dev)
 
 </div>
 
