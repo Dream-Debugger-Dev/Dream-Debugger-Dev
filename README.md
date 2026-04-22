@@ -146,15 +146,6 @@ const anshik = {
 
 </div>
 
-<!-- ═══════════════════ TROPHY WALL ═══════════════════ -->
-<h2 align="center">🏆 Trophy Cabinet 🏆</h2>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Dream-Debugger-Dev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub profile trophies earned" />
-  </a>
-</div>
-
 <hr style="height:2px;border:0;background:linear-gradient(90deg,#0d1117,#58a6ff,#00f5ff,#ff00ff,#0d1117);" />
 
 <!-- ═══════════════════ PROJECT SHOWCASE ═══════════════════ -->
